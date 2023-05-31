@@ -10,7 +10,7 @@ Official communications occur on the [TAC mailing list](https://lists.openssf.or
 Informal discussions occur in the TAC channel of the [OpenSSF Slack](https://slack.openssf.org/).
 To join, use the following [invite link](https://join.slack.com/t/openssf/shared_invite/zt-xoktwsef-VzM~b22G2gfT_~4woTTsQA).
 
-Use [Github Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
+Use [GitHub Issues](https://github.com/ossf/tac/issues) to request and discuss agenda items.
 
 
 ## Meetings
@@ -40,7 +40,7 @@ The TAC is chartered as part of the [Open Source Security Foundation Charter](ht
 
 ## Technical Initiatives
 
-The following Technical Initatives have been approved by the TAC:
+The following Technical Initiatives have been approved by the TAC:
 
 ### Working Groups
 
@@ -83,7 +83,7 @@ Diagrams with an overview of the OpenSSF, including its projects and SIGs, are a
 | GNU Toolchain Infrastructure | Coming Soon                         | TBD   | TBD    |
 | Alpha Omega                  | https://github.com/ossf/alpha-omega | TBD   | TBD    |
 
-Charters for these Technical Intiatives are located in the [Charters](charters)
+Charters for these Technical Initiatives are located in the [Charters](charters)
 directory of this repository.
 
 ## Antitrust Policy
