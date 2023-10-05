@@ -1,5 +1,9 @@
+CRob
 github
 https
+Roadmap
+Sigstore
 ssh
+TUF
 ubuntu
 workarounds
